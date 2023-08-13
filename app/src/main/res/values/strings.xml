@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Example Application 3</string>
+
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.99</item>
+        <item>$2.99</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Lorem ipsum dolor sit amet.</item>
+        <item>Lorem ipsum dolor sit amet.</item>
+        <item>Lorem ipsum dolor sit amet.</item>
+    </string-array>
+</resources>
